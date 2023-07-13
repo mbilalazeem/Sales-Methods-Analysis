@@ -14,7 +14,7 @@ The sales methods include:
 ## Key Files in the Repository
 
 - `Workbook.ipynb`: Notebook containing the detailed code of data preprocessing, data analysis, including exploratory data analysis, visualization, and statistical testing.
-- `Workbook.ipynb`: Detailed report on the data analysis, including the methodology, results, and recommendations. 
+- `notebook.ipynb`: Detailed report on the data analysis, including the methodology, results, and recommendations. 
 - `Task.pdf`: The task I was doing 
 
 ## Key Findings
